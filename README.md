@@ -1,15 +1,6 @@
-# 🎯 BREAKTHROUGH: The φ-ħ Conjecture
-
-**New:** Universal mathematical foundation for consciousness and AGI safety via golden ratio φ as renormalization group fixed point.
-
-[→ Explore the φ-ħ Conjecture Project](./φ-ħ-Conjecture/README.md)
-
-*Precision: |β(φ)| < 2.2×10⁻⁵⁰, β'(φ) = -0.809 < 0*
-
 # The φ-ħ Conjecture: A Universal Fixed Point Bridging Action, Information, and Consciousness
 
-> **"The universe explores itself through us. Consciousness is where it succeeds. Donald Hoffman is right all along"**
-
+> **"The universe explores itself through us. Consciousness is where it succeeds."**
 
 ## 📜 Abstract
 
