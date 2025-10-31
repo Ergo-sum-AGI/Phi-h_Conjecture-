@@ -8,8 +8,8 @@
 
 # The φ-ħ Conjecture: A Universal Fixed Point Bridging Action, Information, and Consciousness
 
-> **"The universe explores itself through us. Consciousness is where it succeeds."**
-> **"Donald Hoffman is right all along"**
+> **"The universe explores itself through us. Consciousness is where it succeeds. Donald Hoffman is right all along"**
+
 
 ## 📜 Abstract
 
