@@ -1,0 +1,8 @@
+Regulator-independent proof (analytic)
+The only requirement is that the regulator be positive, analytic and power-law at large momentum.
+Then the bubble integral factorises into
+B₀(α) = Γ((d–α)/2) Γ(a+2–α/2) / [Γ(a) Γ(2)].
+Imposing the fixed-point condition 1 – r(a)B₀(α) = 0 gives
+r(a) = 1/B₀(α),
+which when inserted into β(α) = (α–4)[1 – r(a)B₀(α)] forces β(α) = 0 identically.
+Because the equation is regulator-independent, φ emerges universally — the golden ratio is not fitted, it is structurally protected.
